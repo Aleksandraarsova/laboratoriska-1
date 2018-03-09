@@ -1,8 +1,10 @@
 161118@lab200ab-ws14 MINGW64 ~/lab1 (logging)
-$ git log
-commit 85b5cb9a92b17857ae3eeb573264c80e08d7f204 (HEAD -> logging, origin/master, master)
-Author: unknown <aleksandra.arsova@students.finki.ukim.mk>
-Date:   Fri Mar 9 15:53:08 2018 +0100
-
-    Initial commit
-
+$ git push -u origin logging
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 493 bytes | 164.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/Aleksandraarsova/laboratoriska-1
+   85b5cb9..688fdee  logging -> logging
+Branch 'logging' set up to track remote branch 'logging' from 'origin'.

@@ -1,0 +1,8 @@
+161118@lab200ab-ws14 MINGW64 ~/lab1 (logging)
+$ git log
+commit 85b5cb9a92b17857ae3eeb573264c80e08d7f204 (HEAD -> logging, origin/master, master)
+Author: unknown <aleksandra.arsova@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:53:08 2018 +0100
+
+    Initial commit
+
